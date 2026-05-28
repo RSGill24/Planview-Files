@@ -1,0 +1,11 @@
+SELECT 
+    c.name        AS Column_Name,
+    t.name        AS Data_Type,
+    c.max_length  AS Max_Length,
+    c.precision   AS Precision,
+    c.scale       AS Scale,
+    c.is_nullable AS Is_Nullable
+FROM sys.columns c
+JOIN sys.types t ON c.user_type_id = t.user_type_id
+WHERE c.object_id = OBJECT_ID('PlanviewSource.dbo.vw_Initiatives')
+ORDER BY c.column_id
