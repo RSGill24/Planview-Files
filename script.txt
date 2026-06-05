@@ -1,0 +1,10 @@
+-- Run Steps 1-3 first to create output_v8 tables, then check:
+
+-- Check 1: Lifecycle Status has values (needed for Status/Work Status)
+SELECT TOP 3 [Lifecycle Status] FROM [output_v8].[Initiatives]
+
+-- Check 2: Is this confidential? has values (needed for Limited Visibility)
+SELECT TOP 3 [Is this confidential?] FROM [output_v8].[Initiatives]
+
+-- Check 3: Demand Type has values (needed for Execution Type)
+SELECT TOP 3 [Demand Type] FROM [output_v8].[Initiatives]
