@@ -1,0 +1,122 @@
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 12 [Batch Start Line 0]
+Invalid column name 'Name (Long Form)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 12 [Batch Start Line 0]
+Invalid column name 'Name (Long Form)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 18 [Batch Start Line 0]
+Invalid column name 'Is this request vital to business continuity?'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 18 [Batch Start Line 0]
+Invalid column name 'Is this request vital to business continuity?'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 22 [Batch Start Line 0]
+Invalid column name 'Impacts Value Prop or Risk to Customer Service?'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 22 [Batch Start Line 0]
+Invalid column name 'Impacts Value Prop or Risk to Customer Service?'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 26 [Batch Start Line 0]
+Invalid column name 'Demand SubType'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 26 [Batch Start Line 0]
+Invalid column name 'Demand SubType'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 31 [Batch Start Line 0]
+Invalid column name 'Enterprise Strategic Initiative (ESI)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 31 [Batch Start Line 0]
+Invalid column name 'Enterprise Strategic Initiative (ESI)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 35 [Batch Start Line 0]
+Invalid column name 'DRIVE Meta Domain (Demand Generator)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 35 [Batch Start Line 0]
+Invalid column name 'DRIVE Meta Domain (Demand Generator)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 42 [Batch Start Line 0]
+Invalid column name 'NRB (Exit Rate) 2028 (Latest Estimate).'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 42 [Batch Start Line 0]
+Invalid column name 'NRB (Exit Rate) 2028 (Latest Estimate).'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 50 [Batch Start Line 0]
+Invalid column name 'Business Process and/or Operational Impact'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 50 [Batch Start Line 0]
+Invalid column name 'Business Process and/or Operational Impact'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 52 [Batch Start Line 0]
+Invalid column name 'Ability To Statements'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 52 [Batch Start Line 0]
+Invalid column name 'Ability To Statements'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 53 [Batch Start Line 0]
+Invalid column name 'Lifecycle Status'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 53 [Batch Start Line 0]
+Invalid column name 'Lifecycle Status'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 57 [Batch Start Line 0]
+Invalid column name 'Baseline Fiscal Year of Initiative'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 57 [Batch Start Line 0]
+Invalid column name 'Baseline Fiscal Year of Initiative'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 63 [Batch Start Line 0]
+Invalid column name 'L1 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 63 [Batch Start Line 0]
+Invalid column name 'L1 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 66 [Batch Start Line 0]
+Invalid column name 'L1 Net Recurring Benefits ($, annualized)-Soft'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 66 [Batch Start Line 0]
+Invalid column name 'L1 Net Recurring Benefits ($, annualized)-Soft'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 77 [Batch Start Line 0]
+Invalid column name 'Impacts Data & AI Portfolio?'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 77 [Batch Start Line 0]
+Invalid column name 'Impacts Data & AI Portfolio?'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 92 [Batch Start Line 0]
+Invalid column name 'Change - Significance (Magnitude)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 92 [Batch Start Line 0]
+Invalid column name 'Change - Significance (Magnitude)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 104 [Batch Start Line 0]
+Invalid column name 'If there is a manual solution, explain:'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 104 [Batch Start Line 0]
+Invalid column name 'If there is a manual solution, explain:'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 107 [Batch Start Line 0]
+Invalid column name 'L2 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 107 [Batch Start Line 0]
+Invalid column name 'L2 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 110 [Batch Start Line 0]
+Invalid column name 'L2 Net Recurring Benefits ($, annualized)-Soft'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 110 [Batch Start Line 0]
+Invalid column name 'L2 Net Recurring Benefits ($, annualized)-Soft'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 113 [Batch Start Line 0]
+Invalid column name 'L2 One-time Benefit ($)-Soft'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 113 [Batch Start Line 0]
+Invalid column name 'L2 One-time Benefit ($)-Soft'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 116 [Batch Start Line 0]
+Invalid column name 'L3 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 116 [Batch Start Line 0]
+Invalid column name 'L3 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 119 [Batch Start Line 0]
+Invalid column name 'L4 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 119 [Batch Start Line 0]
+Invalid column name 'L4 Net Recurring Benefits ($, annualized)-P&L/Hard'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 125 [Batch Start Line 0]
+Invalid column name 'Service, terms, P&D, transits, etc.'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 125 [Batch Start Line 0]
+Invalid column name 'Service, terms, P&D, transits, etc.'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 131 [Batch Start Line 0]
+Invalid column name 'Communication Plans (G2M and G2S)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 131 [Batch Start Line 0]
+Invalid column name 'Communication Plans (G2M and G2S)'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 185 [Batch Start Line 0]
+Invalid column name 'If 'Yes', note the laws or regulatory bodies:'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 185 [Batch Start Line 0]
+Invalid column name 'If 'Yes', note the laws or regulatory bodies:'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 198 [Batch Start Line 0]
+Invalid column name 'Flow Type - Step 1'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 198 [Batch Start Line 0]
+Invalid column name 'Flow Type - Step 1'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 199 [Batch Start Line 0]
+Invalid column name 'Estimated Annualized Value Range_Step 1'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 199 [Batch Start Line 0]
+Invalid column name 'Estimated Annualized Value Range_Step 1'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 200 [Batch Start Line 0]
+Invalid column name 'Estimated Annualized Value Range_Step 2'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 200 [Batch Start Line 0]
+Invalid column name 'Estimated Annualized Value Range_Step 2'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 201 [Batch Start Line 0]
+Invalid column name 'Estimated Annualized Value Range_Step 3'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 201 [Batch Start Line 0]
+Invalid column name 'Estimated Annualized Value Range_Step 3'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 202 [Batch Start Line 0]
+Invalid column name 'Estimated Value Range_Consolidated'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 202 [Batch Start Line 0]
+Invalid column name 'Estimated Value Range_Consolidated'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 203 [Batch Start Line 0]
+Invalid column name 'Flow Type'.
+Msg 207, Level 16, State 1, Procedure vw_Initiatives_Consolidated, Line 203 [Batch Start Line 0]
+Invalid column name 'Flow Type'.
+
+Completion time: 2026-06-06T19:48:10.7792157+00:00
