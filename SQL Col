@@ -1,0 +1,284 @@
+PlanviewMigration_Transform_Output.nitiatives_v8
+
+COLUMN_NAME
+Run_ID
+Save_Timestamp
+Name (Long Form)
+Lifecycle Model
+Strategy Seq ID
+Index_ID
+Name
+Brief Demand Description
+Expected Business Outcome
+Is this confidential?
+Is this request vital to business continuity?
+Home Portfolio
+Impacts Value Prop or Risk to Customer Service?
+Request Type
+Demand Type
+Demand SubType
+Exclude from Migratlon
+Primary Type of Value
+Primary Type of Value Impact
+Enterprise Strategic Initiative (ESI)
+Estimated Annualized Value Range
+DRIVE Meta Domain (Demand Generator)
+Meta Domain
+Domain
+Demand Domain or Portfolio
+DRIVE Pod Name
+NRB (Exit Rate) 2028 (Latest Estimate).
+Pod
+DRIVE Pod Lead
+Domain Sponsor
+Sponsor Name
+Initiative Owner
+Business Process and/or Operational Impact
+Ability To Statements
+Lifecycle Status
+Health Status
+Status Rationale
+Baseline Fiscal Year of Initiative
+Baseline Value
+Measure & Unit
+T-Shirt Size
+L1 Net Recurring Benefits ($, annualized)-P&L/Hard
+L1 Net Recurring Benefits ($, annualized)-Soft
+Key Assumptions Made in Quantifying Impact
+External Spend Category
+What is the Money Step and how will it be measured
+Special Projects
+Impacts Commercial Portfolio?
+Impacts Data & AI Portfolio?
+Impacts Enterprise Services Portfolio?
+Impacts Platform Portfolio?
+Impacts Supply Chain Operations Portfolio?
+Change - Number of external stakeholders
+Change - Number of internal stakeholders
+Change - Significance (Magnitude)
+Change - Willingness
+Impact on any laws or regulation compliance
+What law or regulation is impacted?
+PPM Project Number
+Is there a manual solution?
+If there is a manual solution, explain:
+L2 Net Recurring Benefits ($, annualized)-P&L/Hard
+L2 Net Recurring Benefits ($, annualized)-Soft
+L2 One-time Benefit ($)-Soft
+L3 Net Recurring Benefits ($, annualized)-P&L/Hard
+L4 Net Recurring Benefits ($, annualized)-P&L/Hard
+EAI #
+Azure Subscription Group
+MS Azure Usage Size
+Service, terms, P&D, transits, etc.
+Pricing and Surcharges
+Customer's external experience
+Portfolio and Products
+Communication Plans (G2M and G2S)
+CCH Greenlight
+Commercial Portfolio Greenlight
+Data & AI Portfolio Greenlight
+Enterprise Services Portfolio Greenlight
+Platform Portfolio Greenlight
+Supply Chain Operations Portfolio Greenlight
+Commercial PEO
+Data & AI PEO
+Enterprise Services PEO
+Platform PEO
+Supply Chain Operations PEO
+CCH Lead
+Epic Owner
+Finance Domain Lead
+Time to Value
+Money Step MS Date
+What is the time criticality?
+CCH Notes
+Commercial Portfolio Greenlight Notes
+Data & AI Portfolio Greenlight Notes
+Enterprise Services Portfolio Greenlight Notes
+Platform Portfolio Greenlight Notes
+Supply Chain Operations Portfolio Greenlight Notes
+Notes on SL1 Decision
+SL2 Domain Lead Notes
+SL2 EPM Notes
+SL2 Finance Domain Lead Notes
+SL3 Domain Lead Notes
+SL3 EPM Notes
+SL3 Finance Domain Lead Notes
+SL3 SVP Finance Notes
+SL3 TO Finance Notes
+SL4 Domain Lead Notes
+SL4 Finance Domain Lead Notes
+SL5 Finance Domain Lead Notes
+SL5 TO Finance Notes
+EPM
+If 'Yes', note the laws or regulatory bodies:
+AgilePlace Board
+Does this require technology?
+Investment Dependencies
+Submitted to Triage
+Flow Type - Step 1
+Estimated Annualized Value Range_Step 1
+Estimated Annualized Value Range_Step 2
+Estimated Annualized Value Range_Step 3
+
+
+
+PlanviewMigration_Transform_Output.nitiatives_SP3_v1
+COLUMN_NAME
+Run_ID
+Save_Timestamp
+Name (Long Form)
+Lifecycle Model
+Strategy Seq ID
+Index_ID
+Name
+Brief Demand Description
+Expected Business Outcome
+Is this confidential?
+Is this request vital to business continuity?
+Home Portfolio
+Impacts Value Prop or Risk to Customer Service?
+Request Type
+Demand Type
+Demand SubType
+Exclude from Migratlon
+Primary Type of Value
+Primary Type of Value Impact
+Enterprise Strategic Initiative (ESI)
+Estimated Annualized Value Range
+DRIVE Meta Domain (Demand Generator)
+Meta Domain
+Domain
+Demand Domain or Portfolio
+DRIVE Pod Name
+NRB (Exit Rate) 2028 (Latest Estimate).
+Pod
+DRIVE Pod Lead
+Domain Sponsor
+Sponsor Name
+Initiative Owner
+Business Process and/or Operational Impact
+Ability To Statements
+Lifecycle Status
+Health Status
+Status Rationale
+Baseline Fiscal Year of Initiative
+Baseline Value
+Measure & Unit
+T-Shirt Size
+L1 Net Recurring Benefits ($, annualized)-P&L/Hard
+L1 Net Recurring Benefits ($, annualized)-Soft
+Key Assumptions Made in Quantifying Impact
+External Spend Category
+What is the Money Step and how will it be measured
+Special Projects
+Impacts Commercial Portfolio?
+Impacts Data & AI Portfolio?
+Impacts Enterprise Services Portfolio?
+Impacts Platform Portfolio?
+Impacts Supply Chain Operations Portfolio?
+Change - Number of external stakeholders
+Change - Number of internal stakeholders
+Change - Significance (Magnitude)
+Change - Willingness
+Impact on any laws or regulation compliance
+What law or regulation is impacted?
+PPM Project Number
+Is there a manual solution?
+If there is a manual solution, explain:
+L2 Net Recurring Benefits ($, annualized)-P&L/Hard
+L2 Net Recurring Benefits ($, annualized)-Soft
+L2 One-time Benefit ($)-Soft
+L3 Net Recurring Benefits ($, annualized)-P&L/Hard
+L4 Net Recurring Benefits ($, annualized)-P&L/Hard
+EAI #
+Azure Subscription Group
+MS Azure Usage Size
+Service, terms, P&D, transits, etc.
+Pricing and Surcharges
+Customer's external experience
+Portfolio and Products
+Communication Plans (G2M and G2S)
+CCH Greenlight
+Commercial Portfolio Greenlight
+Data & AI Portfolio Greenlight
+Enterprise Services Portfolio Greenlight
+Platform Portfolio Greenlight
+Supply Chain Operations Portfolio Greenlight
+Commercial PEO
+Data & AI PEO
+Enterprise Services PEO
+Platform PEO
+Supply Chain Operations PEO
+CCH Lead
+Epic Owner
+Finance Domain Lead
+Time to Value
+Money Step MS Date
+What is the time criticality?
+CCH Notes
+Commercial Portfolio Greenlight Notes
+Data & AI Portfolio Greenlight Notes
+Enterprise Services Portfolio Greenlight Notes
+Platform Portfolio Greenlight Notes
+Supply Chain Operations Portfolio Greenlight Notes
+Notes on SL1 Decision
+SL2 Domain Lead Notes
+SL2 EPM Notes
+SL2 Finance Domain Lead Notes
+SL3 Domain Lead Notes
+SL3 EPM Notes
+SL3 Finance Domain Lead Notes
+SL3 SVP Finance Notes
+SL3 TO Finance Notes
+SL4 Domain Lead Notes
+SL4 Finance Domain Lead Notes
+SL5 Finance Domain Lead Notes
+SL5 TO Finance Notes
+EPM
+If 'Yes', note the laws or regulatory bodies:
+AgilePlace Board
+Does this require technology?
+Investment Dependencies
+Submitted to Triage
+Flow Type - Step 1
+Estimated Annualized Value Range_Step 1
+Estimated Annualized Value Range_Step 2
+Estimated Annualized Value Range_Step 3
+Estimated Value Range_Consolidated
+Flow Type
+Stage
+Strategy Type
+Disposition
+SL3 EPG Approval
+SL3 Business Finance Approval
+Ready for L3 EPM Quality Check?
+L3 EPM Review 1
+Ready for L3 Epic Approval?
+L3 Epic Approval
+SL3 Program Owner Approval
+SL3 D&T Captain Approval
+SL3 ESPM Review
+SL3 TO Approval
+SL3 D&T Finance Approval
+SL3 DTU Approval
+SL3 D&T SMO Review
+L3 ESPM Review
+L3 D&T SMO Review
+SL4 Close Work Bundle -D&T Finance Approval
+Status
+Work Status
+Does this require Limited Visibility?
+Other Impacted Portfolios
+Demand Type - Legacy
+Execution Type - Legacy
+Execution Type
+Parent Sequence ID
+
+
+
+
+Estimated Value Range_Consolidated
+Flow Type
+Stage
