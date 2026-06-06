@@ -1,4 +1,4 @@
-PlanviewMigration_Transform_Output.nitiatives_v8
+PlanviewMigration_Transform_Output.initiatives_v8
 
 COLUMN_NAME
 Run_ID
@@ -126,7 +126,7 @@ Flow Type
 Stage
 
 
-PlanviewMigration_Transform_Output.nitiatives_SP3_v1
+PlanviewMigration_Transform_Output.initiatives_SP3_v1
 COLUMN_NAME
 Run_ID
 Save_Timestamp
