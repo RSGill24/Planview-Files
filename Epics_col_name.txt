@@ -1,0 +1,136 @@
+PlanviewMigration_Output.Epics_v12'
+
+COLUMN_NAME
+Run_ID
+Save_Timestamp
+Name
+Work ID #
+Sequence ID
+Epic Name w_ container Name
+Epic Name
+Associated Initiative Seq ID
+Associated Initiative
+Description
+Initiative Owner
+Epic Owner
+Work Status
+Health Status
+Execution Type
+Demand Type
+Work Type
+What Business Unit does this request support?
+Level of Governance
+Phase
+Exclude from Migratlon
+Epic Impacted Pods
+In Scope
+Out of Scope
+T-Shirt Size
+Expected Business Outcome
+Primary Type of Value Impact
+Primary Type of Value
+Home Domain_Portfolio
+Other Impacted Portfolios
+Impacted Solutions
+PPM Project Number
+Ability To Statements
+Epic Architectural Documentation
+IT Architect
+Business Architect
+Dependencies & Constraints
+Agility #
+AgilePlace External Id
+Agility URL
+Azure Subscription Group
+Baseline Start
+Baseline Finish
+Change - Impacted regions
+Change - Impacted stakeholder groups
+Change - Number of external stakeholders
+Change - Number of internal stakeholders
+Change - Significance Magnitude
+Change - Willingness
+DRIVE Pod Lead
+DRIVE Pod Name
+EAI #
+Epic Notes and Comments
+IdeaPlace URL
+L2 One-time Benefit $-Soft
+Key Assumptions Made in Quantifying Impact
+PEL_Solution Management Approver 1
+PEL_Solution Management Approver 2
+PEO
+Triage Comments
+
+
+PlanviewMigration_Transform_Output.Epics_SP3_v1
+
+COLUMN_NAME
+Run_ID
+Save_Timestamp
+Name
+Work ID #
+Sequence ID
+Index_ID
+Epic Name (w/ container Name)
+Epic Name
+Associated Initiative Seq ID
+Associated Initiative
+Description
+Initiative Owner
+Epic Owner
+Work Status
+Health Status
+Execution Type
+Demand Type
+Work Type
+Demand Domain or Portfolio
+Governance Level
+Phase
+Exclude from Migratlon
+Epic Impacted Pods
+In Scope
+Out of Scope
+T-Shirt Size
+Expected Business Outcome
+Primary Type of Value Impact
+Primary Type of Value
+Home Domain/Portfolio
+Impacted Portfolios
+Impacted Solutions
+PPM Project Number
+Ability To Statements
+Epic Architectural Documentation
+IT Architect
+Business Architect
+Dependencies & Constraints
+Agility #
+AgilePlace External Id
+Agility URL
+Azure Subscription Group
+Baseline Start
+Baseline Finish
+Change - Impacted regions
+Change - Impacted stakeholder groups
+Change - Number of external stakeholders
+Change - Number of internal stakeholders
+Change - Significance (Magnitude)
+Change - Willingness
+DRIVE Pod Lead
+DRIVE Pod Name
+EAI #
+Epic Notes and Comments
+IdeaPlace URL
+L2 One-time Benefit ($)-Soft
+Key Assumptions Made in Quantifying Impact
+PEL/Solution Management Approver 1
+PEL/Solution Management Approver 2
+PEO
+Triage Comments
+Demand Type - Legacy
+Execution Type - Legacy
+GrandParent Index
+Parent Sequence ID
+Inherited Flow Type
+Epic Flow Type
+
