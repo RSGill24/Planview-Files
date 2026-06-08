@@ -1,0 +1,11 @@
+SELECT 
+    [Strategy Seq ID],
+    LEN([Strategy Seq ID])                          AS [Len],
+    DATALENGTH([Strategy Seq ID])                   AS [DataLen],
+    ASCII(LEFT([Strategy Seq ID], 1))               AS [FirstCharASCII],
+    ASCII(RIGHT([Strategy Seq ID], 1))              AS [LastCharASCII]
+FROM [PlanviewMigration_Output].[Initiatives_v12]
+WHERE LEN([Strategy Seq ID]) <> LEN(TRIM([Strategy Seq ID]))
+   OR [Strategy Seq ID] LIKE '%' + CHAR(13) + '%'
+   OR [Strategy Seq ID] LIKE '%' + CHAR(10) + '%'
+   OR [Strategy Seq ID] LIKE '%' + CHAR(9) + '%';
