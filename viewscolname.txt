@@ -1,0 +1,160 @@
+ip.FDXPROD_epics_extract
+
+COLUMN_NAME
+Name
+Work ID #
+Sequence ID
+Epic Name (w/ container Name)
+Epic Name
+Associated Initiative Seq ID
+Associated Initiative
+Work Description
+Lifecycle Administrator
+Actual Start
+Actual Finish
+Schedule Start
+Schedule Finish
+Baseline Start
+Baseline Finish
+Initiative Owner
+Epic Owner
+Work Status
+Health Status
+Execution Type
+Demand Type
+Work Type
+Demand Domain or Portfolio
+Governance Level
+In Scope
+Out of Scope
+T-Shirt Size
+Expected Business Outcome
+Primary Type of Value Impact
+Primary Type of Value
+Home Domain/Portfolio
+Impacted Portfolios
+PPM Project Number
+Epic Architectural Documentation
+IT Architect
+Business Architect
+Agility #
+Agility URL
+Change - Impacted regions
+Change - Impacted stakeholder groups
+Change - Number of external stakeholders
+Change - Number of internal stakeholders 
+Change - Significance (Magnitude)
+Change - Willingness
+EAI #
+Epic Notes and Comments
+Key Assumptions Made in Quantifying Impact
+PEO
+Triage Comments
+Status Rationale
+Demand SubType
+Epic Outcomes
+Home Portfolio
+If ‘Yes’, note the laws or regulatory bodies:
+Impact on any laws or regulation compliance
+Investment Dependencies
+Sponsor Name
+Stage
+Estimated Annualized Value Range
+
+ip.FDXPROD_initiatives_extract
+
+
+COLUMN_NAME
+Name (Long Form)
+Lifecycle Model
+Strategy Seq ID
+Stage
+Name
+Brief Demand Description
+Lifecycle Administrator
+Strategy Type
+Expected Business Outcome
+Is this confidential?
+Is this request vital to business continuity?
+Home Portfolio
+Impacts Value Prop or Risk to Customer Service?
+Demand Type
+Demand SubType
+Exclude from Migration
+Primary Type of Value
+Primary Type of Value Impact
+Estimated Annualized Value Range
+Meta Domain
+Domain
+Demand Domain or Portfolio
+NRB (Exit Rate) 2028 (Latest Estimate)
+Pod
+Sponsor Name
+Initiative Owner
+Business Process and/or Operational Impact
+Lifecycle Status
+Health Status
+Status Rationale
+Baseline Fiscal Year of Initiative
+T-Shirt Size
+L1 Net Recurring Benefits ($, annualized)-P&L/Hard
+L1 Net Recurring Benefits ($, annualized)-Soft
+Key Assumptions Made in Quantifying Impact
+Impacts Enterprise Services Portfolio?
+Impacts Platform Portfolio?
+Impacts Supply Chain Operations Portfolio?
+Change - Number of external stakeholders
+Change - Number of internal stakeholders 
+Change - Significance (Magnitude)
+Change - Willingness
+Impact on any laws or regulation compliance
+What law or regulation is impacted?
+PPM Project Number
+Is there a manual solution?
+If there is a manual solution, explain:
+L2 Net Recurring Benefits ($, annualized)-P&L/Hard
+EAI #
+Epic Owner
+EPM
+If ‘Yes’, note the laws or regulatory bodies:
+Investment Dependencies
+Triage Comments
+L1 One-time Benefit ($)
+Change - Who is affected by the change?
+TO Finance
+Change - How many colleagues are affected?
+Impacts Commercial Portfolio?
+OnSpring ID
+Impacts Data & AI Portfolio?
+
+
+ip.FDXPROD_tasks_extract
+
+COLUMN_NAME
+Work Sequence ID
+Work ID
+Parent Sequence ID
+Sequence ID
+Path
+Place
+Name
+Task or Milestone Type
+Execution Type
+Milestone Flag
+Milestone/Task Owner
+Work Status
+Schedule Start
+Schedule Finish
+Baseline Start
+Baseline Finish
+Actual Start
+Actual Finish
+Health Status
+Duration
+Show on Roadmap
+
+
+
+
+
+
